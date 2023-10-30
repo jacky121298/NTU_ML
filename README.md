@@ -8,4 +8,4 @@ These are the homework assignments for the NTU 2020 Fall Machine Learning course
 
 ## Learning Map
 
-![](docs/Learning%20Map.png)
+<p align="center"><img src="docs/Learning%20Map.png" width="500"></p>
